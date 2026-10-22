@@ -1,0 +1,26 @@
+id,peso,altura,ancho,profundidad,ubicacion
+P001,8.5,0.35,0.30,0.30,Comuna 1 - Centro
+P002,12.0,0.50,0.40,0.40,Comuna 11 - Ferias
+P003,25.5,0.60,0.50,0.50,Comuna 10 - Estadio
+P004,4.2,0.25,0.20,0.20,Comuna 1 - Centro
+P005,18.7,0.80,0.60,0.60,Comuna 2 - Calambeo
+P006,9.9,0.40,0.40,0.35,Comuna 8 - Simón Bolívar
+P007,55.0,1.20,1.00,1.00,Comuna 12 - Ricaurte
+P008,120.0,1.50,1.20,1.20,Comuna 12 - Ricaurte
+P009,6.0,0.30,0.30,0.25,Comuna 13 - Boquerón
+P010,2.1,0.20,0.15,0.15,Comuna 10 - Estadio
+P011,15.4,0.45,0.45,0.40,Comuna 9 - Picaleña-Mirolindo
+P012,30.0,0.70,0.70,0.60,Comuna 6 - Vergel
+P013,3.3,0.22,0.22,0.18,Comuna 7 - Salado
+P014,48.0,1.00,0.80,0.80,Comuna 7 - Salado
+P015,22.5,0.55,0.50,0.45,Comuna 3 - San Simón
+P016,7.8,0.35,0.30,0.30,Comuna 11 - Ferias
+P017,1.2,0.15,0.15,0.15,Comuna 5 - Jordán
+P018,65.0,1.10,0.90,0.90,Comuna 12 - Ricaurte
+P019,9.0,0.40,0.35,0.30,Comuna 2 - Calambeo
+P020,4.5,0.28,0.22,0.22,Comuna 13 - Boquerón
+P021,180.0,2.00,1.50,1.50,Comuna 1 - Centro
+P022,5.0,0.25,0.25,0.25,Comuna 8 - Simón Bolívar
+P023,2.8,0.18,0.18,0.18,Comuna 9 - Picaleña-Mirolindo
+P024,14.0,0.50,0.40,0.35,Comuna 7 - Salado
+P025,12.0,6.00,0.40,0.40,Comuna 4 - Piedrapintada

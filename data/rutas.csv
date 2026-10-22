@@ -1,0 +1,25 @@
+origen,destino,distancia_km
+Comuna 1 - Centro,Comuna 2 - Calambeo,1.2
+Comuna 1 - Centro,Comuna 3 - San Simón,1.5
+Comuna 1 - Centro,Comuna 10 - Estadio,2.0
+Comuna 1 - Centro,Comuna 11 - Ferias,1.8
+Comuna 1 - Centro,Comuna 12 - Ricaurte,2.2
+Comuna 2 - Calambeo,Comuna 3 - San Simón,1.8
+Comuna 3 - San Simón,Comuna 4 - Piedrapintada,2.5
+Comuna 3 - San Simón,Comuna 5 - Jordán,2.2
+Comuna 3 - San Simón,Comuna 10 - Estadio,2.0
+Comuna 4 - Piedrapintada,Comuna 5 - Jordán,2.5
+Comuna 4 - Piedrapintada,Comuna 6 - Vergel,3.0
+Comuna 4 - Piedrapintada,Comuna 9 - Picaleña-Mirolindo,2.8
+Comuna 4 - Piedrapintada,Comuna 10 - Estadio,2.2
+Comuna 5 - Jordán,Comuna 6 - Vergel,2.5
+Comuna 5 - Jordán,Comuna 8 - Simón Bolívar,3.0
+Comuna 5 - Jordán,Comuna 9 - Picaleña-Mirolindo,3.0
+Comuna 6 - Vergel,Comuna 7 - Salado,3.0
+Comuna 6 - Vergel,Comuna 8 - Simón Bolívar,3.0
+Comuna 7 - Salado,Comuna 8 - Simón Bolívar,2.5
+Comuna 8 - Simón Bolívar,Comuna 9 - Picaleña-Mirolindo,3.0
+Comuna 9 - Picaleña-Mirolindo,Comuna 10 - Estadio,2.5
+Comuna 10 - Estadio,Comuna 11 - Ferias,1.5
+Comuna 11 - Ferias,Comuna 12 - Ricaurte,2.0
+Comuna 12 - Ricaurte,Comuna 13 - Boquerón,2.5
